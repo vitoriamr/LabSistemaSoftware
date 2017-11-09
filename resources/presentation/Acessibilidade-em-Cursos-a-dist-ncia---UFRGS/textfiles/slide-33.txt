@@ -1,0 +1,14 @@
+Criando um PDF acessível
+ Antes de clicar em "Publicar" para
+salvar seu documento em PDF,
+clique em "Opções". Outra caixa irá
+será aberta, contendo várias
+opções. Uma delas é a opção
+"Marcas estruturais do documento
+para acessibilidade", que deverá
+estar marcada, pois é ela que fará
+com que o seu documento PDF
+tenha uma estrutura. Quando
+finalizar, clique em OK e depois em
+Publicar. Pronto, você terá gerado
+um documento em PDF acessível.

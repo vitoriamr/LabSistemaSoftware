@@ -1,0 +1,8 @@
+Criando documentos acessíveis no Word
+Como descrever as imagens?
+A descrição de uma imagem pode ser fornecida de três
+maneiras: inserindo-se a descrição na caixa de texto
+alternativo, descrevendo-a na legenda da figura ou no
+próprio contexto.
+A seguir, vamos descobrir como funcionam essas três
+formas de descrever uma imagem.

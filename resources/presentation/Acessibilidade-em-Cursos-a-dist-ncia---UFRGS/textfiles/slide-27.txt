@@ -1,0 +1,5 @@
+Criando documentos acessíveis no PowerPoint
+ A opção para verificar a ordem de tabulação só está disponível
+a partir do PowerPoint 2007.
+ Quando o slide estiver pronto, no item de menu "Início",
+escolha "Organizar" > "Painel de Seleção"

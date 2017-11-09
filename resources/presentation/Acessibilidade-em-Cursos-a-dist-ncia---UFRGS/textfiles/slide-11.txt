@@ -1,0 +1,9 @@
+Criando documentos acessíveis no Word
+5. Não utilize caixas de texto
+Não insira caixas de texto. Em vez disso, digite
+normalmente o texto e depois coloque uma borda ao
+seu redor. O efeito será o mesmo.
+Por que é importante não utilizar caixas de texto?
+Os leitores de tela ignoram caixas de texto, ou seja,
+um usuário utilizando leitor de tela não tem acesso
+ao conteúdo inserido desta forma.

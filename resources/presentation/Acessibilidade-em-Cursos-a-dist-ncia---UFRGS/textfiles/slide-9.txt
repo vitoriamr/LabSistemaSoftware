@@ -1,0 +1,10 @@
+Criando documentos acessíveis no Word
+3. Utilize atalho para iniciar nova página
+Quando desejar iniciar uma nova página,
+pressione Ctrl+ Enter, ao invés de teclar Enter
+inúmeras vezes.
+Por que é importante utilizar o Ctrl + Enter?
+Para que o usuário com leitor de tela não precise
+passar por todas as linhas em branco (que são
+lidas pelo leitor de tela como "em branco") e
+possa ir direto ao conteúdo da próxima página.

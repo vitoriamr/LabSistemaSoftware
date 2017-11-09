@@ -1,0 +1,9 @@
+Criando documentos acessíveis no Word
+6. Não utilize células mescladas em tabelas
+Quando inserir uma tabela, não utilize células
+mescladas. Além disso, utilize tabelas apenas para
+dados tabulares e não para modificar o layout, dividir
+o documento em colunas, etc.
+Por que é importante não utilizar células mescladas?
+Os leitores de tela realizam a leitura de forma linear,
+sem agrupar linhas ou colunas.

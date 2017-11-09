@@ -1,0 +1,7 @@
+Acessibilidade de Interfaces Gráficas Digitais::
+Com Foco na Baixa Visão
+Usabilidade
+Atributo de qualidade
+relacionado à facilidade do
+uso da interface.
+(Nielsen e Loranger, 2007)

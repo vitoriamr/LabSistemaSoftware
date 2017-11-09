@@ -1,0 +1,6 @@
+Criando documentos acessíveis no PowerPoint
+ Se percebermos que a ordem de
+tabulação não está correta,
+basta selecionarmos o elemento
+na lista e utilizarmos as setas
+para reordená-lo.

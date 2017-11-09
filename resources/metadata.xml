@@ -1,0 +1,33 @@
+<recording>
+  <id>c51b670b0f49c75f537caa6d7e4fded521032d81-1381336480804</id>
+  <state>available</state>
+  <published>true</published>
+  <start_time>1381336597573</start_time>
+  <end_time>1381346963582</end_time>
+  <playback>
+    <format>presentation</format>
+    <link>http://mconf-gravacao.ufrgs.br/playback/presentation/playback.html?meetingId=c51b670b0f49c75f537caa6d7e4fded521032d81-1381336480804</link>
+  </playback>
+  <meta>
+    <mconflb-rec-server-key>-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoRvqYpxx1o8uOb/LLnhG
+eoWvA4epNV1KXfFu0PYmOGSwOakQ4mZf7JcEX/htq13WT9U951lgSQnMKWdDunxI
+TIxbgYSZBCUs7PwMo+iHOeyUTDw6Ve4savALRe7VC7n6klafN2DkI3QbVlkBKVIK
+W4eNmhZj12FvtN/BLYN08kXJEfKIxsnvWkx8BA6hdPg4cMoiYENwcUBNNd30U/0K
+KUS6S9MIe19MgX/e7Biqb0x6AZOjL7KAKx+4LuY6IcOgksPSCdzTWH5HsFsznzb4
+JEolufYKZb/KUbUcDBI7PwUu+WZx6tXLWHQDy8YTOJ63ph4vak98fXwjefeS9Znj
+6wIDAQAB
+-----END PUBLIC KEY-----</mconflb-rec-server-key>
+    <mconfweb-description>Acessibilidade em cursos a distância: como garanti-la?</mconfweb-description>
+    <meetingName>forum-ead</meetingName>
+    <bbbrails-user-name>Felipe Cecagno</bbbrails-user-name>
+    <mconflb-rec-server>1</mconflb-rec-server>
+    <mconflb-rec-server-url>http://mconf-gravacao.ufrgs.br</mconflb-rec-server-url>
+    <mconfweb-title>2º FÓRUM EAD UFRGS DE 2013</mconfweb-title>
+    <meetingId>cd1091ea-6d38-42c2-b087-ec2f5d46bb79-1370450257</meetingId>
+    <mconflb-institution-name>UFRGS</mconflb-institution-name>
+    <mconflb-guid>EbU1PNadsu/vCTOocOSIBw==-1366398783969</mconflb-guid>
+    <bbbrails-user-id>15</bbbrails-user-id>
+    <mconflb-institution>9</mconflb-institution>
+  </meta>
+</recording>

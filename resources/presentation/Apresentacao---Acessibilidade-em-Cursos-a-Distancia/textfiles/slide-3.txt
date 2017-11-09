@@ -1,0 +1,3 @@
+Acessibilidade de Interfaces Gráficas Digitais::
+Com Foco na Baixa Visão
+Cor, Imagem, Brilho, Contraste, Forma, etc

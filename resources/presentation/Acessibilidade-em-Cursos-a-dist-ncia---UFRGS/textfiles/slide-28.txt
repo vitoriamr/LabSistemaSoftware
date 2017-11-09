@@ -1,0 +1,7 @@
+Criando documentos acessíveis no PowerPoint
+ No Painel de Seleção estão listados todos os elementos do slide em ordem
+inversa de tabulação, ou seja, o último elemento da lista é o primeiro a
+receber o foco (primeiro a ser lido pelo leitor de tela), o penúltimo
+elemento é o segundo e assim por diante.
+ Quando selecionamos um elemento da lista, esse mesmo elemento
+aparecerá selecionado no slide.

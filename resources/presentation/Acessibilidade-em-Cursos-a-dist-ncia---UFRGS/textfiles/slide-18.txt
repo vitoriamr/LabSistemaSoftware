@@ -1,0 +1,8 @@
+Criando documentos acessíveis no PowerPoint
+ Ao inserir um novo slide,
+é possível escolher um
+dos layouts disponíveis.
+Se desejar trocar o
+layout do slide, basta
+clicar em "layout" e
+escolher outra opção.

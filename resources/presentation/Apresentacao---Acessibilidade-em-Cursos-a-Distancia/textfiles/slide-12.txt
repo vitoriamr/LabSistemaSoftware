@@ -1,0 +1,9 @@
+Acessibilidade de Interfaces Gráficas Digitais::
+Com Foco na Baixa Visão
+· Utilizar CORES de alto contraste;
+· Evitar textos com imagens no fundo;
+· Eleger tipos de letra mais legíveis e maiores;
+· Criar os OAs com formas simplificadas;
+· Prever INTERFACES limpas e bem organizadas.
+Práticas que auxiliam na melhoria da Interface Gráfica
+para o Deficiente de Baixa Visão

@@ -1,0 +1,8 @@
+Criando documentos acessíveis no Word
+1. Utilize os estilos
+Uma boa utilização dos estilos do Word (título1,
+título2, título3, etc.) é um dos pontos mais
+importantes para que um documento do Word seja
+acessível. Utilize sempre os estilos para formatar os
+títulos no lugar de simplesmente modificar a
+formatação da fonte.

@@ -1,0 +1,14 @@
+Criando documentos acessíveis no Word
+ Exemplo de fontes sem
+serifa (mais limpas):
+ Arial
+ Calibri
+ Trebuchet
+ Verdana
+ Exemplos de fontes
+serifadas (com
+prolongamento):
+ Book Antiqua
+ Cambria
+ Courier New
+ Times New Roman

@@ -1,0 +1,10 @@
+Leitores de tela:
+· Jaws
+· NVDA
+· Virtual Vision
+· Orca
+· Voice Over
+· Mouses adaptados, acionadores...
+· Linha Braille...
+·
+Tecnologia Assistiva

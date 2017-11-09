@@ -1,0 +1,5 @@
+Criando documentos acessíveis no Word
+ Texto alternativo no Word 2007: clique com o botão
+direito sobre a imagem; escolha a opção Tamanho;
+escolha a aba Texto Alt. Na caixa de Texto Alternativo,
+você deverá digitar a descrição da imagem.

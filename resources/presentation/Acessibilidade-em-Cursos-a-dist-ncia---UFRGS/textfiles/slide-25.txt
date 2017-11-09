@@ -1,0 +1,5 @@
+Criando documentos acessíveis no PowerPoint
+ No PowerPoint 2007:
+Botão direito na
+imagem;Tamanho e
+Posição; AbaTextoAlt

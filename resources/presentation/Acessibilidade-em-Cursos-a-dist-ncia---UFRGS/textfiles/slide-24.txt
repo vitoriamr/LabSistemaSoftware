@@ -1,0 +1,18 @@
+Criando documentos acessíveis no PowerPoint
+ Forneça uma
+alternativa textual
+(texto Alt) para
+todas as imagens
+do documento. O
+texto Alt deve ser
+sucinto e objetivo,
+informando o
+conteúdo que quer
+ser passado através
+da imagem.
+ Por quê?
+Imagens sem
+alternativa em texto
+são inacessíveis
+para usuários com
+deficiência visual.

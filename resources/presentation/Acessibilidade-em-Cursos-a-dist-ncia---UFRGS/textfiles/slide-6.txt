@@ -1,0 +1,10 @@
+Criando documentos acessíveis no Word
+2. Descreva as imagens
+É preciso fornecer uma descrição apropriada às
+imagens do documento que transmitem conteúdo.
+Por que é importante descrever as imagens?
+Pessoas cegas não têm como saber qual o conteúdo
+de uma imagem. Os leitores de tela apenas
+informarão o conteúdo de uma imagem se a pessoa
+que criou o documento tiver fornecido uma
+descrição.

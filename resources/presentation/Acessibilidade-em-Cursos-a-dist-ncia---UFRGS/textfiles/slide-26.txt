@@ -1,0 +1,21 @@
+Criando documentos acessíveis no PowerPoint
+ Por fim, certifique-se
+de que a ordem de
+tabulação está correta.
+(A ordem de tabulação
+representa a ordem em
+que os elementos
+recebem o foco ao se
+navegar utilizando o
+teclado).
+ Por quê?
+Um usuário de leitor de
+tela navega utilizando o
+teclado. Se a ordem de
+tabulação não estiver
+correta, a leitura do slide
+não será realizada de
+forma coerente. O leitor
+poderá, por exemplo, ler o
+conteúdo antes do título,
+etc.

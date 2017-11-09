@@ -1,0 +1,11 @@
+Criando documentos acessíveis no Word
+7. Utilize fontes sem serifa
+Prefira utilizar fontes sem serifa (sans-serif), como
+Arial e Verdana.
+Por que é importante utilizar fontes sem serifa?
+Fontes serifadas dão a impressão de estarem unidas
+devido aos prolongamentos no fim das hastes das
+letras, podendo confundir usuários com baixa visão.
+Além disso, fontes muito "enfeitadas", dificultam a
+leitura de pessoas com dificuldades de
+aprendizagem.

@@ -1,0 +1,12 @@
+Criando um PDF acessível
+ Primeiramente, você deverá
+criar o seu documento no
+Word, PowerPoint ou Excel
+tomando-se todos os
+cuidados para que ele seja
+acessível. Quando seu
+documento estiver finalizado,
+basta ir até a opção "Salvar
+como" e escolher o item
+"PDF". A caixa a seguir será
+aberta:

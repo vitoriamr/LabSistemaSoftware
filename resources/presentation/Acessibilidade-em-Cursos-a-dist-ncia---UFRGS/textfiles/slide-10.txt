@@ -1,0 +1,8 @@
+Criando documentos acessíveis no Word
+4. Não divida o documento em colunas
+Evite, sempre que possível, dividir seu documento
+em colunas.
+Por que é importante não utilizar divisão em
+colunas?
+Na navegação utilizando as setas, o leitor de tela
+passa apenas pela primeira coluna de cada página.

@@ -1,0 +1,23 @@
+Criando documentos acessíveis no PowerPoint
+ Utilize sempre as
+opções de layout já
+disponíveis no
+Microsoft
+PowerPoint ao invés
+de inserir caixas de
+texto ou outros
+elementos em uma
+área ainda não
+definida.
+ Por quê?
+Os recursos de
+Tecnologia Assistiva
+nem sempre
+conseguem interagir
+com o conteúdo
+textual inserido em
+uma caixa de texto.
+Além disso, a ordem
+de leitura do
+conteúdo pode não
+fazer sentido.

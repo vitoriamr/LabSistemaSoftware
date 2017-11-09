@@ -1,0 +1,14 @@
+Criando documentos acessíveis no PowerPoint
+ Se houver
+necessidade de
+usar tabelas, evite
+utilizar linhas ou
+colunas mescladas.
+ Por quê?
+Os leitores de tela
+realizam a leitura
+das tabelas de
+forma linearizada,
+ou seja, sem
+agrupamentos de
+linhas ou colunas.
